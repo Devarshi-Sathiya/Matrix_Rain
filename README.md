@@ -1,2 +1,3 @@
 # Matrix_Rain
-Matrix movie like code rain in JavaScript
+[Check out here !](http://devarshi.xyz/demo/matrixrain/)
+Matrix rain animation using HTML5 canvas and javascript :sunglasses:
